@@ -4,7 +4,7 @@
 This is basic template for internet shop API. Includes:
 - API written in Spring Boot framework
 - Security module with JavaAWT
-- Separated endponts by roles (Admin and User)
+- Endponts separated by roles (Admin and User)
 - PostgreSQL as database engine
 
 ### Dependencies
